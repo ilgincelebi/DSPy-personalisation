@@ -1,0 +1,6 @@
+.env
+*.key
+*.pem
+credentials.json
+service-account.json
+.ipynb_checkpoints/
